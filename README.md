@@ -22,8 +22,9 @@ Steps of my business process :
 6. Review and Give Stars
 7. Get Promotion Code
 
-Tools: Software Requirements Engineering - Microsoft Excel
-User Stories, Use Case Diagrams, Acceptance Test Script, Service Blueprint, BPMN, Wireframes - app.diagrams.net
-UI Design - Visual Studio Code, Bootstrap 4
-Version Control - GitHub
-Website - Heroku
+Tools:
+1. Software Requirements Engineering - Microsoft Excel
+2. User Stories, Use Case Diagrams, Acceptance Test Script, Service Blueprint, BPMN, Wireframes - app.diagrams.net
+3. UI Design - Visual Studio Code, Bootstrap 4
+4. Version Control - GitHub
+5. Website - Heroku
